@@ -4,7 +4,7 @@ var casper = require('casper').create({
     logLevel: 'error'
 });
 
-var url = 'http://www.eni-training.com/client_net/mediabook.aspx?idR=';
+var url = 'http://www.eni-training.com/client_net/mediabook.aspx?idR=300891';
 
 //To debug :
 
