@@ -26,9 +26,9 @@ casper
     .thenOpen(url, function() {
         this.evaluate(function() {
             document.cookie = "MplusUserSettings=Lng=1; expires=Fri, 1 Aug 2100 20:00:00 UTC; path=/";
-            document.cookie = "__rsaxc=835301c9ec7381b8d48174ceb85c8e60; expires=Fri, 1 Aug 2100 20:00:00 UTC; path=/";
-            document.cookie = "__hnwky=20731982327777; expires=Fri, 1 Aug 2100 20:00:00 UTC; path=/";
-            document.cookie = "ENI_Editions_Portail=Identifiant=00ecf0d7-b277-4a59-86c8-840c66462d91&SessionId=350c7a83-7d70-4237-b870-1670d5b0a8cf; expires=Fri, 1 Aug 2100 20:00:00 UTC; path=/";
+            document.cookie = "__rsaxc=c36c9c18286599a4303175b2e80f505e; expires=Fri, 1 Aug 2100 20:00:00 UTC; path=/";
+            document.cookie = "__hnwky=1576096093646; expires=Fri, 1 Aug 2100 20:00:00 UTC; path=/";
+            document.cookie = "ENI_Editions_Portail=Identifiant=f668f743-f2e2-48ef-ae42-53a9d2dae790&SessionId=350c7a83-7d70-4237-b870-1670d5b0a8cf; expires=Fri, 1 Aug 2100 20:00:00 UTC; path=/";
         });
     })
     .thenOpen(url, function() {
